@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "502604701461",
+    "project_id": "projeto-teste-ea23f",
+    "storage_bucket": "projeto-teste-ea23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502604701461:android:9786063a6f9477a07a531c",
+        "android_client_info": {
+          "package_name": "com.thoughtworksmobilev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502604701461-k6kmc24119d2ou1pq57dgghm2ugsdimm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thoughtworksmobilev2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "502604701461-j7na6k4m5b0bqjk0pgnags7dr7aekhq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gUuwt6u2exnwQlVJVgKuHpLALLFptBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502604701461-j7na6k4m5b0bqjk0pgnags7dr7aekhq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502604701461-4np0jk3fdbkur2nlb0rrplcalfj6h5gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.react.native.mobile.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
